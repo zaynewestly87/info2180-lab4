@@ -67,5 +67,5 @@ if ($found) {
     echo "<h4>{$found['name']}</h4>";
     echo "<p>{$found['biography']}</p>";
 } else {
-    echo "<p>Superhero not found</p>";
+    echo '<p class="not-found">Superhero not found</p>';
 }

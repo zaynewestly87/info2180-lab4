@@ -53,3 +53,14 @@ button:hover {
     margin-top: 0;
     color: #555;
 }
+
+#result h2 {
+    margin-top: 20px;
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+
+.not-found {
+    color: #00bfff; /* Blue */
+    font-weight: bold;
+}
